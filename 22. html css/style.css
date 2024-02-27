@@ -1,0 +1,41 @@
+.title {
+  color: red;
+}
+
+h3 {
+  border: 1px solid #aa4444;
+  padding: 10px;
+}
+
+button {
+  margin: 50px;
+  border: none;
+}
+
+.button-one {
+  color: rgb(123, 44, 44);
+  background: rgb(240, 234, 234);
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 100px;
+  cursor: pointer;
+  transition: all 3s ease;
+}
+
+.button-one:hover {
+  background: rgb(232, 190, 190);
+  color: aliceblue;
+}
+
+.button-two {
+  color: rgb(40, 40, 194);
+  background: rgb(195, 193, 193);
+  border-radius: 50px;
+  padding: 30px 10px;
+  transition: all 2s ease;
+}
+
+.button-two:hover {
+  border-radius: 5px;
+  background: #aa4444;
+}
